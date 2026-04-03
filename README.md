@@ -36,13 +36,12 @@ This project is not just code — it's a complete security architecture designed
 
 ✨ 🌟 Features
 
-🔐 Secure Login System
-
-🛡️ Role-Based Access Control (RBAC)
-🔑 JWT Authentication
-🧂 Password Hashing (bcrypt)
-⚡ Clean & Modular Architecture
-📈 Highly Scalable Design
+- 🔐 Secure Login System  
+- 🛡️ Role-Based Access Control (RBAC)  
+- 🔑 JWT Authentication  
+- 🧂 Password Hashing (bcrypt)  
+- ⚡ Clean & Modular Architecture  
+- 📈 Highly Scalable Design  
 
 
 
@@ -53,10 +52,10 @@ This project is not just code — it's a complete security architecture designed
 
 🎯 🔥 Why This Project Stands Out?
 
-✨ Clean separation of Authentication vs Authorization
-⚡ Uses industry-standard security practices
-🧠 Easy to understand & extend
-🛠️ Perfect for learning + production use
+-✨ Clean separation of Authentication vs Authorization
+-⚡ Uses industry-standard security practices
+-🧠 Easy to understand & extend
+-🛠️ Perfect for learning + production use
 
 
 ## Project setup
