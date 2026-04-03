@@ -25,19 +25,23 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-Step into a modern authentication system crafted with powerful backend tools.
+Step into a modern authentication system crafted with powerful backend tools.<br>
+This project is not just code — it's a complete security architecture designed to handle real-world applications.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-This project is not just code — it's a complete security architecture designed to handle real-world applications.
 
 
-✨ 🌟 Features
+
+✨ 🌟 Features<br>
 
 - 🔐 Secure Login System  
 - 🛡️ Role-Based Access Control (RBAC)  
 - 🔑 JWT Authentication  
 - 🧂 Password Hashing (bcrypt)  
 - ⚡ Clean & Modular Architecture  
-- 📈 Highly Scalable Design  
+- 📈 Highly Scalable Design
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
 
 
 
@@ -46,6 +50,8 @@ This project is not just code — it's a complete security architecture designed
 - ⚡ Uses industry-standard security practices
 - 🧠 Easy to understand & extend
 - 🛠️ Perfect for learning + production use
+
+
 
 
 ## Project setup
