@@ -30,28 +30,32 @@ Step into a modern authentication system crafted with powerful backend tools.
 This project is not just code — it's a complete security architecture designed to handle real-world applications.
 
 
+
+
+
+
 ✨ 🌟 Features
+
 🔐 Secure Login System
 
 🛡️ Role-Based Access Control (RBAC)
-
 🔑 JWT Authentication
-
 🧂 Password Hashing (bcrypt)
-
 ⚡ Clean & Modular Architecture
-
 📈 Highly Scalable Design
+
+
+
+
+
+
 
 
 🎯 🔥 Why This Project Stands Out?
 
 ✨ Clean separation of Authentication vs Authorization
-
 ⚡ Uses industry-standard security practices
-
 🧠 Easy to understand & extend
-
 🛠️ Perfect for learning + production use
 
 
